@@ -3,15 +3,7 @@
 void main()
 {
 
-  printf("HELLO WORLD");
-  
-}  
-#include<stdio.h>
-
-void main()
-{
-
-  printf("HELLO WORLD");
+  printf("HEY THERE, I'm Ready to Rule The World!!");
   
 }  
 

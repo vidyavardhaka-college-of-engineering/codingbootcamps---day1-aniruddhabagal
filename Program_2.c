@@ -17,6 +17,6 @@ int n;
 
 //if you write correcr code your value will print
 printf("%d",n);
-printf("Good Job...");
+printf("\n Good Job...\n");
 return 0;
 }
